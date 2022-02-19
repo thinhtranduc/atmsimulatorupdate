@@ -1,3 +1,0 @@
-firstName: TEST123, lastName: TEST123, pin: 1234, uuid: 833058
-firstName: TEST, lastName: TEST, pin: 1234, uuid: 713965
-firstName: 12345, lastName: 12345, pin: 1234, uuid: 310548
