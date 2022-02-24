@@ -1,0 +1,2 @@
+firstName: admin, lastName: admin, pin: gdyb21LQTcIANtvYMT7QVQ==, uuid: 234539, type: 0
+firstName: user1, lastName: user1, pin: gdyb21LQTcIANtvYMT7QVQ==, uuid: 490831, type: 1
