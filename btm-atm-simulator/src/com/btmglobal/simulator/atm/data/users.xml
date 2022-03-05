@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+	<user>
+		<uuid>234539</uuid>
+		<firstName>admin</firstName>
+		<lastName>admin</lastName>
+		<pin>gdyb21LQTcIANtvYMT7QVQ==</pin>
+		<type>0</type>
+	</user>
+	<user>
+		<uuid>975784</uuid>
+		<firstName>thinh</firstName>
+		<lastName>tran</lastName>
+		<pin>0PuWP/l2+cN/yB/gPCHqew==</pin>
+		<type>1</type>
+		<account>
+			<uuid>45186767</uuid>
+			<name>Savings</name>
+			<transaction>
+				<amount>1000.0</amount>
+				<memo>naptien</memo>
+				<timestamp>03/05/2022 19:38:36</timestamp>
+			</transaction>
+			<transaction>
+				<amount>500.0</amount>
+				<memo />
+				<timestamp>03/05/2022 19:42:15</timestamp>
+			</transaction>
+			<transaction>
+				<amount>-100.0</amount>
+				<memo />
+				<timestamp>03/05/2022 19:44:43</timestamp>
+			</transaction>
+			<transaction>
+				<amount>-400.0</amount>
+				<memo>Transfer to account 52128579</memo>
+				<timestamp>03/05/2022 19:46:20</timestamp>
+			</transaction>
+		</account>
+		<account>
+			<uuid>52128579</uuid>
+			<name>Checking</name>
+			<transaction>
+				<amount>-0.0</amount>
+				<memo>1</memo>
+				<timestamp>03/05/2022 19:46:07</timestamp>
+			</transaction>
+			<transaction>
+				<amount>400.0</amount>
+				<memo>Transfer to account 45186767</memo>
+				<timestamp>03/05/2022 19:46:20</timestamp>
+			</transaction>
+		</account>
+	</user>
+</users>
