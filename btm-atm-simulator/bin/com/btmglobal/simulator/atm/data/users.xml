@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+	<user>
+		<uuid>234539</uuid>
+		<firstName>admin</firstName>
+		<lastName>admin</lastName>
+		<pin>gdyb21LQTcIANtvYMT7QVQ==</pin>
+		<type>0</type>
+	</user>
+	<user>
+		<uuid>490831</uuid>
+		<firstName>user1</firstName>
+		<lastName>user1</lastName>
+		<pin>gdyb21LQTcIANtvYMT7QVQ==</pin>
+		<type>1</type>
+		<account>
+			<uuid>59666235</uuid>
+			<name>Savings</name>
+			<transaction>
+				<amount>1234.0</amount>
+				<memo>1234</memo>
+				<timestamp>03/05/2022 12:35:30</timestamp>
+			</transaction>
+			<transaction>
+				<amount>-12.0</amount>
+				<memo>1234</memo>
+				<timestamp>03/05/2022 13:00:13</timestamp>
+			</transaction>
+			<transaction>
+				<amount>123.0</amount>
+				<memo>1234</memo>
+				<timestamp>03/05/2022 13:00:54</timestamp>
+			</transaction>
+			<transaction>
+				<amount>0.0</amount>
+				<memo>Transfer to account 77219051</memo>
+				<timestamp>03/05/2022 13:01:19</timestamp>
+			</transaction>
+			<transaction>
+				<amount>-123.0</amount>
+				<memo>Transfer to account 77219051</memo>
+				<timestamp>03/05/2022 13:01:27</timestamp>
+			</transaction>
+		</account>
+		<account>
+			<uuid>77219051</uuid>
+			<name>Checking</name>
+			<transaction>
+				<amount>-0.0</amount>
+				<memo>Transfer to account 59666235</memo>
+				<timestamp>03/05/2022 13:01:19</timestamp>
+			</transaction>
+			<transaction>
+				<amount>123.0</amount>
+				<memo>Transfer to account 59666235</memo>
+				<timestamp>03/05/2022 13:01:27</timestamp>
+			</transaction>
+		</account>
+	</user>
+	<user>
+		<uuid>770873</uuid>
+		<firstName>TEST</firstName>
+		<lastName>TEST</lastName>
+		<pin>gdyb21LQTcIANtvYMT7QVQ==</pin>
+		<type>1</type>
+		<account>
+			<uuid>88291453</uuid>
+			<name>Savings</name>
+			<transaction>
+				<amount>12345.0</amount>
+				<memo>1234</memo>
+				<timestamp>03/05/2022 13:05:19</timestamp>
+			</transaction>
+		</account>
+		<account>
+			<uuid>53315353</uuid>
+			<name>Checking</name>
+		</account>
+	</user>
+</users>
